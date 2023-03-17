@@ -15,4 +15,4 @@ This project was inspired by the YouTube tutorial "Python Slot Machine Tutorial"
 I followed his tutorial to learn how to create a basic slot machine game in Python
 and made some modifications to the code to suit my needs.
 
-Here is a link to Tech with Tim's tutorial: https://www.youtube.com/watch?v=3nhEy1V4C-I
+Here is a link to Tech with Tim's tutorial:https://www.youtube.com/watch?v=th4OBktqK1I&t=2s
