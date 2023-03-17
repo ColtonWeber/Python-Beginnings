@@ -1,6 +1,6 @@
 # Python-Beginnings
-Snippets of code of creative ventures for learning Python
-My Awesome Project
+
+Slot Machine Project using import random
 This is a project that I created as part of my learning journey in Python. 
 It is a slot machine game that allows users to bet on multiple lines 
 and win prizes based on the symbols that are displayed on the screen.
